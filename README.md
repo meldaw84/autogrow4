@@ -71,3 +71,5 @@ specific, hard-coded versions of the dependencies). These dependencies are
 known to be compatible with AutoGrow4. When developing future versions of
 AutoGrow4, be sure to test the current versions of these dependencies and to
 update `$PATH/docker/Dockerfile` appropriately.
+
+## Adapter note
